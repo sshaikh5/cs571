@@ -1,2 +1,2 @@
-# cs571
-CS571 project
+# CS-571
+CS571 Project - One-billion-files Filesystem Application to create, write, read one-billion-files on Linux filesystems. This is the final project for CS571 at George Mason University. The goals of this project is to assess various filesystems namely EXT4 (baseline), XFS, BtrFS and F2FS. This application serves as a utility to create a billion files, capture various metrics while creating/writing the files as well as read the files.
